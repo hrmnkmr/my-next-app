@@ -1,0 +1,6 @@
+{
+  "tasks": [
+    { "id": 1, "name": "Learn Next.js", "completed": false },
+    { "id": 2, "name": "Build Todo App", "completed": false }
+  ]
+}
